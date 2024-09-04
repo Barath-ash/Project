@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Header-color-1{
+    background-color: #8272DA;
+}
+
+
+.Header-color-2{
+    background-color: #FD6663;
+}
+
+.Header-color-3{
+    background-color: #FCA201;
+}
